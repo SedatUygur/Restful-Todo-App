@@ -11,7 +11,7 @@ I built a simple Todo Application by using Laravel, AngularJS, Bootstrap and Sat
 
 I used the resource routing of Laravel 5 to create a REST API for the backend of the application and the power of AngularJS for the frontend.
 
-REQUIREMENTS
+# Requirements
 
 •	Laravel or LAMP stack - Laravel is a free, open-source PHP web application framework and intended for the development of web applications following the model–view–controller (MVC) architectural pattern. You can also use WAMP stack.
 
